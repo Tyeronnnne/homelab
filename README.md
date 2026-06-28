@@ -1,9 +1,13 @@
 # Tyes Ubuntu Homelab 
 
-A self-hosted, homelab environment deployed on a dedicated Ubuntu Linux laptop. This project serves as a production-style testing ground for container orchestration, localized networking, and automated IoT systems.
+A self-hosted, homelab environment deployed on a dedicated Ubuntu Linux laptop.
 ---
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Jellyfin](https://img.shields.io/badge/jellyfin-%23000B25.svg?style=for-the-badge&logo=Jellyfin&logoColor=00A4DC) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Home Assistant](https://img.shields.io/badge/home%20assistant-%2341BDF5.svg?style=for-the-badge&logo=home-assistant&logoColor=white) ![Pi-Hole](https://img.shields.io/badge/pihole-%2396060C.svg?style=for-the-badge&logo=pi-hole&logoColor=white)
 ---
+
+##Hardware
+<img
+
 ## Architecture & Tech Stack
 * **Operating System:** Ubuntu Linux (Headless CLI)
 * **Container Setup:** Docker & Portainer
